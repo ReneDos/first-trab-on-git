@@ -1,0 +1,15 @@
+h1{
+    color: blueviolet;
+    margin: 100px;
+    border: 10px groove
+}
+body{
+    background-color: cadetblue;
+    overflow: hidden;
+}
+
+.div img{
+    width: 45;
+    height: auto;
+
+}
